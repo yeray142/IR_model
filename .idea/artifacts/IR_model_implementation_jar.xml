@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IR model implementation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IR_model_implementation_jar</output-path>
+    <root id="archive" name="IR model implementation.jar">
+      <element id="module-output" name="IR model implementation" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/irmodel" />
+    </root>
+  </artifact>
+</component>
